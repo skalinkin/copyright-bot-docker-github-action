@@ -2,4 +2,4 @@
 
 echo "Hello"
 pwd
-git diff --name-only --diff-filter=ACMR main...
+git diff --name-only --diff-filter=ACMR origin/main test
